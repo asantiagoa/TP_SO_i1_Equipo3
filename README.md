@@ -1,7 +1,10 @@
 # TP_SO_i1_Equipo3
 tp1 SO 2020
 
-1- Si, veo las modificaciones que cargaron BETA y GAMmA
-2- Si, se ven los archivos que agrega ALFA 
+1- Si, veo las modificaciones que cargaron BETA y GAMmA.
 
-4- Por comentarios en los commits???
+2- Si, se ven los archivos que agrega ALFA. 
+
+3- Si, se ven los archivos que agrega BETA.
+
+4- Por comentarios en los commits(???
